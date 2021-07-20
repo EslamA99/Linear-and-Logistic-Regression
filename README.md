@@ -1,2 +1,2 @@
 # Linear-and-Logistic-Regression
-Description and tasks is in Description folder
+Description of task is in Description folder
